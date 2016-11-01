@@ -1,6 +1,6 @@
-# hb_app_cli
+# vue-init
 
-> A HB APP scaffolds
+> init vue environment with vuex,vue-router and so on
 
 ## Build Setup
 
